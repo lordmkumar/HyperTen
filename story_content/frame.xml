@@ -68,12 +68,12 @@
           <option name="pauseplay" value="true" />
           <option name="replay" value="true" />
           <option name="search" value="false" />
-          <option name="closed_captions" value="true">
+          <option name="closed_captions" value="false">
             <options>
               <option name="font" value="Lato" />
             </options>
           </option>
-          <option name="settings" value="true" />
+          <option name="settings" value="false" />
           <option name="fullScreenToggle" value="false" />
           <option name="playbackSpeedControl" value="false" />
         </options>
@@ -1571,17 +1571,16 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6FvFBDA0RL2" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6FvFBDA0RL2" displaytext="Approach to Hypertension" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6FvFBDA0RL2.5d8YZBfYmjw" displaytext="template" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.608K9dyOfzx" displaytext="Learning Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6FvFBDA0RL2.5d8YZBfYmjw" displaytext="Welcome" expand="false" type="slide" />
             <slidelink slideid="_player.6FvFBDA0RL2.6FulyT57SI0" displaytext="Learning Objectives" expand="false" type="slide" />
             <slidelink slideid="_player.6FvFBDA0RL2.65MQOBe05mo" displaytext="Hypertension – Prevalence" expand="false" type="slide" />
             <slidelink slideid="_player.6FvFBDA0RL2.6PtaQxPAKfI" displaytext="Types of Hypertension" expand="false" type="slide" />
             <slidelink slideid="_player.6FvFBDA0RL2.5mx4LSdfSMb" displaytext="Case 1" expand="false" type="slide" />
             <slidelink slideid="_player.6FvFBDA0RL2.6CWqcJQRcsW" displaytext="Blood Pressure Management" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5pbsu8eHeq7" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5kkyWjA8Ctv" displaytext="Key Points" expand="false" type="slide" />
+            <slidelink slideid="_player.6FvFBDA0RL2.5pbsu8eHeq7" displaytext="How to measure Hypertension" expand="false" type="slide" />
+            <slidelink slideid="_player.6FvFBDA0RL2.5kkyWjA8Ctv" displaytext="Key Points in taking different readings" expand="false" type="slide" />
             <slidelink slideid="_player.6FvFBDA0RL2.6LWHRTzkws3" displaytext="Diagnosis of Hypertension" expand="false" type="slide" />
             <slidelink slideid="_player.6FvFBDA0RL2.636T4N0vYxx" displaytext="Diagnosis of Hypertension" expand="false" type="slide" />
             <slidelink slideid="_player.6FvFBDA0RL2.6YSipZwipeO" displaytext="White Coat &amp;amp; Masked Hypertension" expand="false" type="slide" />
